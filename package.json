@@ -6,5 +6,5 @@
   "repository": { "type": "git", "url": "http://github.com/jeffbski/function.bind.js.git" },
   "bugs" : { "url": "http://github.com/jeffbski/function.bind.js/issues" },
   "licenses": [{ "type": "MIT", "url" : "http://github.com/jeffbski/function.bind.js/raw/master/LICENSE" }],
-  "main": "function-bind",
+  "main": "function-bind"
 }
