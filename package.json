@@ -1,7 +1,7 @@
 {
   "name": "function-bind",
   "description": "Polyfill for old webkit and iOS browsers which adds Function.prototype.bind() if doesn't exist",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jeff Barczewski <jeff.barczewski@gmail.com>",
   "repository": { "type": "git", "url": "http://github.com/jeffbski/function.bind.js.git" },
   "bugs" : { "url": "http://github.com/jeffbski/function.bind.js/issues" },
