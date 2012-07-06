@@ -34,3 +34,11 @@ In your main.js
 require(['function-bind'], function () {
 });
 ```
+
+## Download / Install
+
+You can clone the repo, download the function-bind.js file, or retrieve with npm from github
+
+```bash
+  npm install https://github.com/jeffbski/function.bind.js/tarball/v0.0.1
+```
